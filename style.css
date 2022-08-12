@@ -105,3 +105,8 @@
     text-decoration: underline;
 }
 
+.contact-container .contact-header{
+    display: block;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
