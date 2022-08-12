@@ -1,0 +1,107 @@
+
+#firstRowHomePage{
+    min-height: 100vh;
+    background-image: url("img/development.jpg");
+    background-position: center;
+}
+
+#textPresentation{
+    background-color: #0c0c0cae;
+}
+
+.description{
+    max-width: 500px;
+    margin: 15px auto;
+    font-size: 14px;
+}
+
+.text-bienvenue{
+    font-size: 22px;
+}
+
+.big-text{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#arrow{
+    font-size: 100px;
+}
+
+.card-img-top {
+    max-width: 100px;
+    margin: auto;
+}
+
+#about{
+    background-color: #2e3135;
+}
+
+.nav-link {
+    color: white !important;
+  }
+
+.nav-link.active {
+    color: #FFCA47 !important;
+  }
+
+#page-scroll1 {
+    background: #9898987f;
+}
+
+#page-scroll2 {
+    background: #9898987f;
+}
+
+#navbar-example2{
+    z-index: 1000;
+}
+
+#available {
+    background-color: #2e3135;
+}
+#realisations{
+    background-color: #2e3135;
+}
+.temoignage{
+    color: #989898;
+}
+
+.testimonial-icon{
+    color: #FFCA47;
+    padding-bottom: 20px;
+}
+
+.carousel-indicators [data-bs-target]{
+    background-color:#FFCA47 ;
+}
+
+#scroll-top-button{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background-color: #ffcb47cb;
+    visibility: hidden;
+    opacity: 0;
+    transition: all 0.5s;;
+}
+
+#scroll-top-button.show{
+    opacity: 1;
+    visibility: visible;
+}
+
+#realisations img.realisations-img{
+    max-width: 100%;
+}
+
+#realisations a{
+    color: #FFCA47;
+    text-decoration: none;
+}
+
+#realisations a:hover{
+    color: #FFCA47;
+    text-decoration: underline;
+}
+
