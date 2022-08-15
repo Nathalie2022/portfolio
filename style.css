@@ -37,24 +37,12 @@
     background-color: #2e3135;
 }
 
-.nav-link {
-    color: white !important;
-  }
-
 .nav-link.active {
     color: #FFCA47 !important;
   }
 
-#page-scroll1 {
-    background: #9898987f;
-}
-
-#page-scroll2 {
-    background: #9898987f;
-}
-
-#navbar-example2{
-    z-index: 1000;
+#navbarSite{
+    transition: 0.5s;
 }
 
 #available {
